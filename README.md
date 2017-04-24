@@ -11,5 +11,5 @@ Setup:
 	3. Finding Similar Characters based on dialogues
 	4. Finding Similar Conversations
 Notes: 
-1. Models created during the process are not included, due the large size of the files. (Character model,conversation model, and lda model)
+1. Models created during the process are not included, due the large size of the files. (Character model,conversation model)
 2. Run sudo python -m spacy.en.download all to download english vocabulary.
